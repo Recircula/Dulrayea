@@ -1,7 +1,9 @@
 ---
-Alignment: Neutral
-tags: npc
+title: Explorer
+draft: true
+tags:
 ---
+
 > [!infobox| right|200]+
 > # Annabelle (She/Her)
 > **Pronounced:**  ""
