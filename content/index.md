@@ -2,10 +2,6 @@
 title: Welcome to Dulrayea
 ---
 
----
-"-":
----
-
 ![[Dulrayea Map.jpg|banner]]
 
 ---
