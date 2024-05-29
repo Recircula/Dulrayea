@@ -18,6 +18,9 @@ export default ((opts?: Options) => {
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
         </p>
+        <p>
+          Site created by Keven Huard-Dubé and Logan Fiallos 
+        </p>
       </footer>
     )
   }
