@@ -60,7 +60,6 @@ $$\text{General Info:}$$
 
 
 ---
-![[PartyDashboardBackground.png|banner-fade]]
 # Art By Bre:
 
 > ### Please Follow her socials!
