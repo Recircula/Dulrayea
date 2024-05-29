@@ -8,7 +8,6 @@ title: Welcome to Dulrayea
 
 ![[Dulrayea Map.jpg|banner]]
 
-
 ---
 $$\text{Welcome:}$$
 **Welcome to a world of magic and mystery, where ancient forces are stirring, and a great war is looming on the horizon. Old cities and races that were long thought to be forgotten are beginning to reappear, and a new source of magic, known only as the Void, is emerging from the shadows. As the world braces for war, the greatest threat may come from the rebirth of the great ancient dragons, powerful beasts that have been slumbering for centuries. Their awakening has brought a sense of awe and wonders to many, but others fear the chaos and destruction that they could unleash.**
