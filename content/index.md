@@ -7,8 +7,6 @@ title: Welcome to Dulrayea
 ---
 ![[PartyDashboardBackground.png|banner-fade]]
 
-![[Dulrayea Map.jpg|banner]]
-
 
 ---
 $$\text{Welcome:}$$
