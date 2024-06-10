@@ -1,7 +1,3 @@
----
-tags:
-  - Player
----
 
 > [!infobox| right|200]+
 > # Kenji (He/Him)
