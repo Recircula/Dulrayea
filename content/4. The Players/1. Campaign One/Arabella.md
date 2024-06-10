@@ -133,3 +133,6 @@ They taught her to use the elements to her advantage, use the flowers, and the g
 Mikolus told her to never lose sight of herself, for there are people out there who will truly care for you if you just give them a chance. As Arabella left she hoped what he said was true, for with the path she is taking, she may need all the help she can get.
 
 %%
+
+
+
