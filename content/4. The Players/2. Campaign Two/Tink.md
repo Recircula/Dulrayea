@@ -1,3 +1,8 @@
+---
+tags:
+  - Player
+---
+
 > [!infobox| right|200]+
 > # Name (pronouns)
 > **Pronounced:**  ""
