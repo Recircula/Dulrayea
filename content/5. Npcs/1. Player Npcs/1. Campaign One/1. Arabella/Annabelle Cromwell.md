@@ -1,24 +1,30 @@
+---
+title: Explorer
+draft: true
+tags:
+---
+
 > [!infobox| right|200]+
-> # Name (pronouns)
+> # Annabelle (She/Her)
 > **Pronounced:**  ""
-> ![[PlaceholderImage.png]]
+> ![[Annabelle.png]]
 > ###### Bio
 >  |
 > ---|---|
-> **Race** |  |
-> **Sex** |  |
-> **Age** |  |
-> **Sexuality** |  |
-> **Alignment** |  |
-> **Condition** |  |
+> **Race** | Female |
+> **Sex** | Human |
+> **Age** | 25 |
+> **Sexuality** | Straight |
+> **Alignment** | LG |
+> **Condition** | Deceased |
 > ###### Info
 >  |
 > ---|---|
-> **Aliases** |  |
-> **Occupations** |  |
-> **Groups** |  |
-> **Religions** |  |
-> **Current Location** |  |
+> **Aliases** | "[[The Golden Locket]]" |
+> **Occupations** | Angelic Singer For The Six Swords |
+> **Groups** | [[Six Swords]]  |
+> **Religions** | [[Thyhies, The Sun Goddess]] |
+> **Current Location** | Deceased |
 
 ## Who is this person?
 > [!example|overview bg-c-purple]- Overview 
@@ -27,37 +33,37 @@
 
 > [!column] Traits
 >> [!abstract|text-Center bg-c-gray]- Personality
->>  
+>>  sweet, caring, and empathetic
 >
 >
 >> [!abstract|text-Center bg-c-gray]- Social
->> 
+>> Bubbly, extroverted person, pleasant to be around, and someone who is loving. 
 >
 >
 >> [!abstract|text-Center bg-c-gray]- Mental
->> 
+>> TBD
 >
 >
 >> [!abstract|text-Center bg-c-gray]- Likes/Dislikes
->> **Likes** - 
+>> **Likes** - Sunflowers and Sunsets
 >>  
->> **Dislikes** - 
+>> **Dislikes** - Hatred, Betrayal, and Liars
 
 
 > [!Column|dataview] Goals
 >> [!question|text-Center bg-c-orange]- Personal
->>  
+>>  TBD
 >
 >
 >> [!question|text-Center bg-c-orange]- Professional
->>  
+>>  TBD
 >
 
 
 ## Relationships:
 
 > [!Column|dataview] Acquaintances
->> [!friend|text-Center bg-c-green]- Allies
+>> [!question|text-Center bg-c-green]- Allies
 >>   
 >
 >
@@ -73,4 +79,4 @@
 >
 >> [!question|text-Center bg-c-brown]- Long
 >>   
-
+>
