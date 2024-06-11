@@ -1,7 +1,7 @@
 > [!infobox| right|200]+
 > # Name (pronouns)
 > **Pronounced:**  ""
-> ![[PlaceholderImage.png]]
+> ![[Silas.jpg]]
 > ###### Bio
 >  |
 > ---|---|
