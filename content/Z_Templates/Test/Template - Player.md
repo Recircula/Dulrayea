@@ -1,7 +1,9 @@
 ---
-art: Z_Logan Stuff/Z_Pictures/1. Recuring Npcs/1. Critical/Castader.jpg
+tags:
+  - "#Character"
+  - "#Player"
+art: z_Assets/Misc/PlaceholderImage.png
 ---
-----
 
 > [!metadata|metadata]- Metadata 
 >> [!metadata|metadataoption]- System
@@ -13,53 +15,39 @@ art: Z_Logan Stuff/Z_Pictures/1. Recuring Npcs/1. Critical/Castader.jpg
 >> [!metadata|metadataoption]- Art
 >> #### Art
 >>  |
->> ---|---|
+>>---|---|
 >> **Art** | `INPUT[imageSuggester(optionQuery("")):art]` |
 >
 >> [!metadata|metadataoption]- Bio
 >> #### Bio
 >>  |
->> ---|---|
->> **Pronounced** |  `INPUT[textArea:pronounced]` |
+>>---|---|
+>> **Played By** |  `INPUT[textArea:playedby]`
+>> **Character Sheet** |  `INPUT[textArea:charactersheet]`
+>> **Pronounced** |  `INPUT[textArea:pronounced]`
 >> **Aliases** | `INPUT[list:aliases]` |
 >> **Ancestry** | `INPUT[Ancestry][suggester:ancestry]` |
 >> **Heritage** | `INPUT[Heritage][suggester:heritage]` |
-> **Creature Type** | `INPUT[textArea:ancestry]` |
-> **Creature Sub-Type** | `INPUT[textArea:heritage]` |
 >> **Gender** | `INPUT[Gender][:gender]` |
->> **Pronouns** | `INPUT[Pronouns][:pronouns]` |
+>> **Pronouns** | `INPUT[Pronouns][:pronouns]`
 >> **Age** | `INPUT[Age][:age]` |
->> **Sexuality** | `INPUT[Sexuality][:sexuality]` |
->> **Alignment** | `INPUT[Alignment][:alignment]` |
 >
->> [!metadata|metadataoption]- NPC Info
->> #### NPC Info
+>> [!metadata|metadataoption]- Info
+>> #### Player Info
 >>  |
 >>---|---|
->> **Languages** | `INPUT[Language][inlineListSuggester:language]` |
->> **Ideals** | `INPUT[textArea:ideals]` |
->> **Flaws** | `INPUT[textArea:flaws]` |
->> **Fears** |  `INPUT[textArea:fears]` |
->> **Mannerisms** |  `INPUT[textArea:mannerisms]` |
 >> **Occupations** | `INPUT[Occupation][inlineListSuggester:occupation]` |
 >> **Organizations** | `INPUT[inlineListSuggester(optionQuery(#Organization AND !"z_Templates"), useLinks(partial)):organization]` |
 >> **Religions** | `INPUT[inlineListSuggester(optionQuery(#Organization AND !"z_Templates"), useLinks(partial)):religion]` |
 >> **Owned Locations** | `INPUT[inlineListSuggester(optionQuery(#Location AND !"z_Templates"), useLinks(partial)):ownedlocation]` |
 >> **Current Location** | `INPUT[inlineListSuggester(optionQuery(#Location AND !"z_Templates"), useLinks(partial)):location]` |
+>> **Which Party** | `INPUT[inlineListSuggester(optionQuery(#Party AND !"z_Templates"), useLinks(partial)):whichparty]` |
 >> **Condition** | `INPUT[Condition][:condition]` |
->
->> [!metadata|metadataoption]- Party Info
->> #### Party Info
->>  |
->> ---|---|
->> **Traveling With** | `INPUT[inlineListSuggester(optionQuery(#Party AND !"z_Templates"), useLinks(partial)):whichparty]` |
->> **Party 1 Relation** | `INPUT[Party1Relation][:party1relation]` |
 
-----
 > [!infobox]+
 > # `=this.file.name`
 > `VIEW[!\[\[{art}\]\]][text(renderMarkdown)]`
-> ![[PlaceholderAudio.webm]]
+> ###### Played By: `VIEW[{playedby}][text]`
 > ###### Bio
 >  |
 > ---|---|
@@ -69,12 +57,9 @@ art: Z_Logan Stuff/Z_Pictures/1. Recuring Npcs/1. Critical/Castader.jpg
 > **Gender** | `VIEW[{gender}]` |
 > **Pronouns** | `VIEW[{pronouns}]` |
 > **Age** | `VIEW[{age}]` |
-> **Sexuality** | `VIEW[{sexuality}]` |
-> **Alignment** | `VIEW[{alignment}]` |
 > ###### Info
 >  |
 > ---|---|
-> **Languages** | `VIEW[{language}][text]` |
 > **Occupations** | `VIEW[{occupation}][text]` |
 > **Organization** | `VIEW[{organization}][link]` |
 > **Religions** | `VIEW[{religion}][link]` |
@@ -82,8 +67,23 @@ art: Z_Logan Stuff/Z_Pictures/1. Recuring Npcs/1. Critical/Castader.jpg
 > **Current Location** | `VIEW[{location}][link]` |
 > **Condition** | `VIEW[{condition}]` |
 
-
 # **`=this.file.name`** <span style="font-size: medium">"`VIEW[{pronounced}]`"</span>
+
+> [!kirk|info] Handout (Remove me)
+[Player Handout](https://docs.google.com/document/d/1_eFTuK3teRJSAVbd2QSZxjDTgE_RZH54zZg-3Eoo4Hk/edit?usp=sharing)
+
+> [!metadata|charactersheet]- Character Sheet
+> ```custom-frames
+frame: Demiplane
+style: height: 700px;
+>```
+
+> [!metadata|servicerequests]- Service Requests
+> ```dataview
+> TABLE join(aliases, ", ") AS Aliases, quicknote AS Notes
+> FROM "Campaign"
+> WHERE econtains(customer, this.file.link) AND contains(tags, "Service") AND !contains(status, "✅") AND !contains(status, "❌")
+> SORT file.name ASC
 
 > [!metadata|letters]- Letters
 > ```dataview
@@ -98,54 +98,33 @@ art: Z_Logan Stuff/Z_Pictures/1. Recuring Npcs/1. Critical/Castader.jpg
 > FROM "Campaign"
 > WHERE econtains(holder, this.file.link) AND contains(tags, "Literature")
 > SORT file.name ASC
-----
-## Who is this person?
-> [!abstract]- Overview 
-> TBD
 
-> [!column]
->
-> 
->> [!metadata|ideals]- Ideals
-> `VIEW[{ideals}][text]`
->
->> [!metadata|flaws]- Flaws
-> `VIEW[{flaws}][text]`
-> 
->> [!metadata|fear]- Fears
-> `VIEW[{fears}][text]`
->
->> [!metadata|mannerism]- Mannerisms
-> `VIEW[{mannerisms}][text]`
+## Ideals
+### Loves
 
-----
+
+### Hates
+
 
 ## Goals
-> [!question]- Current Goals
-
-> [!question]- Long Term Goals 
->  # PLAYERS WILL DISCOVER IN GAME
-
-----
-
-## Relationships
-
-> [!success]- Allies
-
->[!failure]- Enemies
-
-----
+### Short-term
 
 
-## Current Events
-> [!quote|author] Quote Author Here 
-> Blockquote text here
+### Long-term
 
-----
 
 ## History
-> [!quote|author] Quote Author Here 
-> Blockquote text here
+### Birth Location
 
-----
+
+### Childhood
+
+
+### Journey
+
+
+### Worship
+
+
+## Notes
 

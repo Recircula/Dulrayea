@@ -1,6 +1,3 @@
----
-art: Z_Logan Stuff/Z_Pictures/1. Recuring Npcs/1. Critical/Castader.jpg
----
 ----
 
 > [!metadata|metadata]- Metadata 

@@ -1,5 +1,5 @@
 ---
-art: Z_Logan Stuff/Z_Pictures/1. Recuring Npcs/1. Critical/Castader.jpg
+art: Z_Logan Stuff/Z_Pictures/1. Recuring Npcs/1. Critical/Hex.jpg
 ---
 ----
 
