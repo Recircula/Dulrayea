@@ -94,7 +94,13 @@ tags:
 >> [!question|text-Center bg-c-brown]- Long
 >>   
 
-
+| Level | Proficiency Bonus |         Features          | Blooms |
+| :---: | :---------------: | :-----------------------: | :----: |
+|  5th  |        +3         |      The Lotus Dance      |   +2   |
+| 10th  |        +4         | The Blooms Of Retribution |   +4   |
+| 15th  |        +5         |         The Grove         |   +6   |
+| 17th  |        +6         |       Putrefaction        |   +8   |
+| 20th  |        +6         |      "The Deciever"       |  +10   |
 
 ## Backstory:
 %%
