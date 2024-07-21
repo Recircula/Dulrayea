@@ -2,7 +2,7 @@
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`=this.Pronounced`"
-> ![[PlaceholderImage.png]]
+> ![[Z_Pictures/Random/PlaceholderImage.png]]
 > ###### Info
 >  |
 > ---|---|

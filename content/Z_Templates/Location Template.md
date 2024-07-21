@@ -1,7 +1,7 @@
 > [!infobox]+
 > # `=this.file.name`
 > **Pronounced:**  "`=this.Pronounced`"
-> ![[PlaceholderImage.png]]
+> ![[Z_Pictures/Random/PlaceholderImage.png]]
 > ###### Info
 >  |
 > ---|---|
@@ -26,7 +26,7 @@
 > **Exports** | `=this.exports` |
 
 > [!infobox|left]- 
-> ![[PlaceholderImage.png]]
+> ![[Z_Pictures/Random/PlaceholderImage.png]]
 > **Description:** 
 
 # **`=this.file.name`**
