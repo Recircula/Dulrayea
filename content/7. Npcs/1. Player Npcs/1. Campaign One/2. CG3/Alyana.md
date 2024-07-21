@@ -40,7 +40,7 @@ Sexuality: Gay
 >
 >
 >> [!abstract|text-Center bg-c-gray]- Social
->> quick to anger but ease to please. She is someone you send to finish up loose ends that have been causing you problems. She is so[](Crimson%20Lillies.md)s.md)nd arguments and fix people up. She deals with mostly the bounties, money, contracts, and other things in the area.
+>> quick to anger but ease to please. She is someone you send to finish up loose ends that have been causing you problems. She is someone you need to end arguments and fix people up. She deals with mostly the bounties, money, contracts, and other things in the area.
 >
 >
 >> [!abstract|text-Center bg-c-gray]- Mental
