@@ -1,8 +1,10 @@
 ---
-title: Welcome to Dulrayea
+"-":
 ---
+![[PartyDashboardBackground.png|banner-fade]]
 
 ![[Dulrayea Map.jpg|banner]]
+
 
 ---
 $$\text{Welcome:}$$
@@ -17,7 +19,7 @@ $$\text{Welcome:}$$
 **Welcome to a world on the brink of war, where ancient powers are stirring and new threats are emerging. The fate of the world rests in the hands of those brave enough to face these challenges head-on, and the coming days will test the courage and resolve of all who call this world home.**
 
 ---
-$$\text{General Info:}$$ 
+$$\text{General Info:}$$
 > [!column] General Info
 >> [!recite|text-Center bg-c-purple]- What Is This Website For?
 >>  **Explore The Waking Realms: **Welcome to the heart of "The Waking Realms," a vast and immersive world created for adventurers like you. This website serves as your gateway to delve deeper into the lore, history, and secrets of this sprawling universe.
@@ -55,6 +57,7 @@ $$\text{General Info:}$$
 
 
 ---
+![[PartyDashboardBackground.png|banner-fade]]
 # Art By Bre:
 
 > ### Please Follow her socials!
