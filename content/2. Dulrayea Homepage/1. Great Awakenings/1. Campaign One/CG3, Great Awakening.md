@@ -1,4 +1,4 @@
-# Great Awakening 
+##### Vengeful Gunslinger
 
 | Level | Proficiency Bonus | Features    | Hot shot |     |
 | :---: | :---------------: | :---------- | :------: | --- |
@@ -41,3 +41,9 @@ Additionally, if the ally succumbs to the fight, the Gunslinger's righteous fury
 3. **Overclocked Arsenal (Rule and Mechanics):** By overclocking their firearms, the Gunslinger can temporarily increase their firing rate and damage output. However, after using this ability, the Gunslinger must make a Dexterity saving throw (DC 15) or suffer 2d6 fire damage from the overheated weapons. Additionally, the firearms become jammed and require a successful Dexterity check (DC 15) to repair.
 
 ### _Level 10_ The Pass: 
+
+
+
+
+
+
