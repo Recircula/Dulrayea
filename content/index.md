@@ -5,7 +5,6 @@
 
 
 ---
-$$\text{Welcome:}$$
 **Welcome to a world of magic and mystery, where ancient forces are stirring, and a great war is looming on the horizon. Old cities and races that were long thought to be forgotten are beginning to reappear, and a new source of magic, known only as the Void, is emerging from the shadows. As the world braces for war, the greatest threat may come from the rebirth of the great ancient dragons, powerful beasts that have been slumbering for centuries. Their awakening has brought a sense of awe and wonders to many, but others fear the chaos and destruction that they could unleash.**
 
 **In addition to the return of the dragons, something sinister is also stirring in the abyss. A dark and malevolent force is slowly crawling out of the shadows, seeking revenge for a past wrong that has long been forgotten by all but a select few.**
@@ -17,7 +16,6 @@ $$\text{Welcome:}$$
 **Welcome to a world on the brink of war, where ancient powers are stirring and new threats are emerging. The fate of the world rests in the hands of those brave enough to face these challenges head-on, and the coming days will test the courage and resolve of all who call this world home.**
 
 ---
-$$\text{General Info:}$$
 > [!column] General Info
 >> [!recite|text-Center bg-c-purple]- What Is This Website For?
 >>  **Explore The Waking Realms: **Welcome to the heart of "The Waking Realms," a vast and immersive world created for adventurers like you. This website serves as your gateway to delve deeper into the lore, history, and secrets of this sprawling universe.
