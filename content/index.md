@@ -65,7 +65,7 @@
 ![[Fanart two.png]]
 
 # Music By BassonBoy:
-> ### Please Subscribe to Our Talented Musician:
+> # Please Subscribe to Our Talented Musician:
 > Youtube:  https://www.youtube.com/@averagemusician5578/shorts
 > # CG3 by Jerrod Williams:
 https://www.youtube.com/watch?v=eVltHuUI7j0
