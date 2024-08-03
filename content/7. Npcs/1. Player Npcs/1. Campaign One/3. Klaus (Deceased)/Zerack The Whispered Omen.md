@@ -1,7 +1,7 @@
 > [!infobox]+
 > # `=this.file.name` (`=this.pronouns`)
 > **Pronounced:**  "`=this.Pronounced`"
-> ![[Z_Pictures/Random/PlaceholderImage.png]]
+> ![[PlaceholderImage.png]]
  > ###### Deceased Or Alive
 >  |
 > ---|---|

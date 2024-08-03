@@ -3,7 +3,7 @@
 > [!infobox| right|200]+
 > # Name (pronouns)
 > **Pronounced:**  ""
-> ![[Z_Pictures/Random/PlaceholderImage.png]]
+> ![[PlaceholderImage.png]]
 > ###### Bio
 >  |
 > ---|---|

@@ -87,7 +87,7 @@
 >
 
 ## History:
-> [!Column|dataview] %%History%%
+> [!Column|dataview] History
 >> [!question|text-Center bg-c-brown]- Short
 >>   Vameer Delacterease made his way to [[Rosen Wheel]] in 21,814
 >
@@ -98,14 +98,15 @@
 >>   In the aftermath of the demon's blade that cruelly pierced through the chest of Vameer's youngest son, Luthin, a malevolent curse took root. The vile creature from the northern lands had bestowed upon Luthin a wretched disease, transforming his once-vibrant form into a grotesque tableau of decay. Black tar coursed through his veins, threatening to extinguish the light that once sparkled in his eyes.
 >>   
 >>   Desperation gripped Vameer's heart as he witnessed his son's agonizing descent into darkness. Unyielding to the despair that threatened to consume him, Vameer, a mere alchemist in a world of magic, sought refuge in the heart of Shayu, The City of The Falling Stars. The towering spires of the elvish city loomed above him as he navigated through the labyrinthine streets to the sacred halls of the high clerics.
->>   With bated breath and tear-streaked cheeks, Vameer, a High Noble elf humbled by the weight of a father's plea, beseeched the clerics for aid. He implored them to mend his son's wounds, even offering his own life in exchange for Luthin's salvation. However, the clerics, shrouded in their sanctimonious disdain, met Vameer's plea with cold indifference. Their judgment cast a shadow upon him, and they callously turned away, leaving the grieving father and his afflicted son to the mercy of a merciless fate.
->>   
->>   As the clerics' indifference left a bitter taste in Vameer's mouth, he retreated to the quiet sanctum of his alchemical workshop. It was there that he delved into the mystical knowledge passed down through his lineage, tapping into the esoteric wisdom of his forefathers. Guided by a blend of foresight and alchemical expertise, Vameer embarked on a journey of experimentation, seeking to concoct a potion that could defy the very fabric of the curse that ensnared his son.
->>   
->>   The sacred ingredients, shrouded in mystery and hidden in the corners of Dulrayea, were gathered with meticulous care. The blood of ancient creatures, the grains of moon-kissed stones, and the essence drawn from the wisps of ethereal winds formed the alchemical trinity. With reverence, Vameer these components into a potion that shimmered with otherworldly vitality.
->>   
->>   As he poured the potion into Luthin's wound, a silent anticipation hung in the air. The elixir, named "Tel' emphasis quesst Ath faen" in the poetic tongue of the elves, translated to "The Nectar Of Life" in common parlance. The potion, with its ethereal glow, began its work, knitting together the torn sinews and reconstructing the decayed flesh. Vameer beheld in awe as his son's body underwent a miraculous transformation, the curse unraveling before his very eyes.
->>   
->>   Overwhelmed with relief and gratitude, Vameer's elation evolved into a resolute purpose. The potential of the potion extended beyond his personal tragedy. He envisioned a remedy that could traverse the borders of sorrow and become a beacon of hope for the impending great war that loomed on the horizon. With a heart fueled by a father's love and a newfound alchemical legacy, Vameer mass-produced the potion that would later be known as "The Health Potion."
->>   
->>   In the crucible of war against orcs, demons, elves, and men, Vameer's creation proved to be a formidable asset. "The Nectar Of Life" flowed through the veins of soldiers, healing wounds and bolstering resilience. Vameer, driven by the haunting memory of his son's suffering, intended for no child to endure the same darkness. The potion became a symbol of both survival and defiance against the encroaching shadows.
+
+With bated breath and tear-streaked cheeks, Vameer, a High Noble elf humbled by the weight of a father's plea, beseeched the clerics for aid. He implored them to mend his son's wounds, even offering his own life in exchange for Luthin's salvation. However, the clerics, shrouded in their sanctimonious disdain, met Vameer's plea with cold indifference. Their judgment cast a shadow upon him, and they callously turned away, leaving the grieving father and his afflicted son to the mercy of a merciless fate.
+
+As the clerics' indifference left a bitter taste in Vameer's mouth, he retreated to the quiet sanctum of his alchemical workshop. It was there that he delved into the mystical knowledge passed down through his lineage, tapping into the esoteric wisdom of his forefathers. Guided by a blend of foresight and alchemical expertise, Vameer embarked on a journey of experimentation, seeking to concoct a potion that could defy the very fabric of the curse that ensnared his son.
+
+The sacred ingredients, shrouded in mystery and hidden in the corners of Dulrayea, were gathered with meticulous care. The blood of ancient creatures, the grains of moon-kissed stones, and the essence drawn from the wisps of ethereal winds formed the alchemical trinity. With reverence, Vameer bleujih09oiiiiiiiiiuiy8jjjjjj675yttnded these components into a potion that shimmered with otherworldly vitality.
+
+As he poured the potion into Luthin's wound, a silent anticipation hung in the air. The elixir, named "Tel' emphasis quesst Ath faen" in the poetic tongue of the elves, translated to "The Nectar Of Life" in common parlance. The potion, with its ethereal glow, began its work, knitting together the torn sinews and reconstructing the decayed flesh. Vameer beheld in awe as his son's body underwent a miraculous transformation, the curse unraveling before his very eyes.
+
+Overwhelmed with relief and gratitude, Vameer's elation evolved into a resolute purpose. The potential of the potion extended beyond his personal tragedy. He envisioned a remedy that could traverse the borders of sorrow and become a beacon of hope for the impending great war that loomed on the horizon. With a heart fueled by a father's love and a newfound alchemical legacy, Vameer mass-produced the potion that would later be known as "The Health Potion."
+
+In the crucible of war against orcs, demons, elves, and men, Vameer's creation proved to be a formidable asset. "The Nectar Of Life" flowed through the veins of soldiers, healing wounds and bolstering resilience. Vameer, driven by the haunting memory of his son's suffering, intended for no child to endure the same darkness. The potion became a symbol of both survival and defiance against the encroaching shadows.

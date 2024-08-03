@@ -1,7 +1,7 @@
 > [!infobox| right|200]+
 > # Name (pronouns)
 > **Pronounced:**  ""
-> ![[Z_Pictures/Random/PlaceholderImage.png]]
+> ![[PlaceholderImage.png]]
 > ###### Basic Information
 >  |
 > ---|---|
@@ -18,27 +18,26 @@
 
 
 > Quote
+---
 
-> [!column] Traits
->> [!abstract|text-Center bg-c-gray]- Personalities
->>  
+> [!column|2 no-title]
 >
+> 
+>> [!metadata|ideals] Ideals
+> 
 >
->> [!abstract|text-Center bg-c-gray]- Activities 
->> 
+>> [!metadata|flaws] Flaws
+> 
+> 
+>> [!metadata|fear] Fears
+> 
 >
->
->> [!abstract|text-Center bg-c-gray]- Tactics
->> 
->
->
->> [!abstract|text-Center bg-c-gray]- Likes/Dislikes
->> **Likes** - 
->>  
->> **Dislikes** - 
+>> [!metadata|mannerism] Mannerisms
+> 
+---
 
-
-> [!Column|dataview] Goals
+### Goals
+> [!Column|dataview] %%gg%%
 >> [!question|text-Center bg-c-orange]- Personal
 >>  
 >
@@ -47,23 +46,19 @@
 >>  
 >
 
-
-> [!Column|dataview] Acquaintances
->> [!friend|text-Center bg-c-green]- Allies
->>   
->
->
->> [!question|text-Center bg-c-red]- Enemies
->>   
->
+---
 
 
-## ***Lore***
-> [!Column|dataview] Info
->> [!friend|text-Center bg-c-purple]- Short
->>   
->
->
->> [!Sword|text-Center bg-c-purple]- Long
->>   
->
+## Acquaintances
+
+
+
+## Current Events
+
+
+
+## History
+
+
+
+## Notes
