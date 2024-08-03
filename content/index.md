@@ -32,7 +32,7 @@
 >
 >
 >> [!recite|text-Center bg-c-purple]- Author!
->> Greetings to all who share a love for the art of storytelling. My name is [[Logan]], a dedicated author deeply engaged in the enchanting world of fantasy literature. My journey commenced with the wondrous tales of J.R.R. Tolkien, specifically "The Lord of the Rings." The rich landscapes, like the Misty Mountains, and the vibrant characters, like Tom Bombadil, ignited my imagination and fostered a lifelong affection for the genre. At nine, I discovered "Dungeons & Dragons," a pivotal moment that shaped my identity and perception of narrative art. This tabletop role-playing game transcended its recreational purpose, opening a gateway to a realm of boundless creativity and endless possibilities. It captured my heart and became an integral part of who I am, influencing my understanding and love for storytelling.
+>> Greetings to all who share a love for the art of storytelling. My name is Logan, a dedicated author deeply engaged in the enchanting world of fantasy literature. My journey commenced with the wondrous tales of J.R.R. Tolkien, specifically "The Lord of the Rings." The rich landscapes, like the Misty Mountains, and the vibrant characters, like Tom Bombadil, ignited my imagination and fostered a lifelong affection for the genre. At nine, I discovered "Dungeons & Dragons," a pivotal moment that shaped my identity and perception of narrative art. This tabletop role-playing game transcended its recreational purpose, opening a gateway to a realm of boundless creativity and endless possibilities. It captured my heart and became an integral part of who I am, influencing my understanding and love for storytelling.
 >> 
 >> Throughout my life, especially during challenging times of introspection and battles with depression, "Dungeons & Dragons" has been a source of comfort and resilience. It offered not only escape but also a connection to a community of kindred spirits, underscoring the healing power of shared stories. 
 >> 
@@ -40,7 +40,7 @@
 >> 
 >> I am grateful to everyone who has joined me on this extraordinary journey. As I continue to develop and expand "The Waking Realms," I invite you to be part of this adventure. Together, we will explore the realms of imagination, and I hope this project becomes a sanctuary for those seeking adventure, excitement, and a deep engagement in an evolving world of fantasy.
 >> 
->> x [[Logan]] 
+>> x Logan 
 >
 >
 >> [!recite|text-Center bg-c-purple]- Players Homepage:
