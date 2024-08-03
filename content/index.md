@@ -43,8 +43,7 @@
 >> x Logan 
 >
 >
->> [!recite|text-Center bg-c-purple]- Players Homepage:
->> Player Abilities: 
+>> [!recite|text-Center bg-c-purple]- Players Homepage: 
 >> https://homebrewery.naturalcrit.com/share/Ln-fvrU_Gl1c
 >
 >
