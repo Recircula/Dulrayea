@@ -1,8 +1,3 @@
-:root {
-  --light-color: #EDEFF1;
-  --dark-color: #25232E;
-}
-
 .darkmode {
   position: relative;
   width: 20px;
@@ -21,28 +16,17 @@
     width: 20px;
     height: 20px;
     top: calc(50% - 10px);
+    fill: var(--darkgray);
     transition: opacity 0.1s ease;
   }
 }
 
 :root[saved-theme="dark"] {
   color-scheme: dark;
-  --background-color: var(--dark-color);
-  --text-color: var(--light-color);
 }
 
 :root[saved-theme="light"] {
   color-scheme: light;
-  --background-color: var(--light-color);
-  --text-color: var(--dark-color);
-}
-
-:root[saved-theme="dark"] .darkmode svg {
-  fill: var(--light-color);
-}
-
-:root[saved-theme="light"] .darkmode svg {
-  fill: var(--dark-color);
 }
 
 :root[saved-theme="dark"] .toggle ~ label {
@@ -54,7 +38,7 @@
   }
 }
 
-:root[saved-theme="light"] .toggle ~ label {
+:root .toggle ~ label {
   & > #dayIcon {
     opacity: 1;
   }
