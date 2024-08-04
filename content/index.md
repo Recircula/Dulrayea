@@ -17,7 +17,7 @@ title: Welcome to Dularyea
 
 ---
 > [!column] General Info
->> [!recite|text-Center bg-c-purple]- What Is This Website For?
+>> [!recite]- What Is This Website For?
 >>  **Explore The Waking Realms: **Welcome to the heart of "The Waking Realms," a vast and immersive world created for adventurers like you. This website serves as your gateway to delve deeper into the lore, history, and secrets of this sprawling universe.
 >>  
 >>  **Discover the Lore:** Within these digital pages, you'll uncover a treasure trove of lore and information about "The Waking Realms." From the origins of unique races to the intricate histories of kingdoms, every facet of this world is waiting to be explored.
@@ -31,7 +31,7 @@ title: Welcome to Dularyea
 >> **Unearth the Secrets:** Delve into the depths of "The Waking Realms" and unearth its best-kept secrets. Explore, learn, and prepare yourself for the adventures that lie ahead. Your destiny in this world is yours to shape.
 >
 >
->> [!recite|text-Center bg-c-purple]- The Author
+>> [!recite]- The Author
 >> Greetings to all who share a love for the art of storytelling. My name is Logan, a dedicated author deeply engaged in the enchanting world of fantasy literature. My journey commenced with the wondrous tales of J.R.R. Tolkien, specifically "The Lord of the Rings." The rich landscapes, like the Misty Mountains, and the vibrant characters, like Tom Bombadil, ignited my imagination and fostered a lifelong affection for the genre. At nine, I discovered "Dungeons & Dragons," a pivotal moment that shaped my identity and perception of narrative art. This tabletop role-playing game transcended its recreational purpose, opening a gateway to a realm of boundless creativity and endless possibilities. It captured my heart and became an integral part of who I am, influencing my understanding and love for storytelling.
 >> 
 >> Throughout my life, especially during challenging times of introspection and battles with depression, "Dungeons & Dragons" has been a source of comfort and resilience. It offered not only escape but also a connection to a community of kindred spirits, underscoring the healing power of shared stories. 
@@ -43,12 +43,12 @@ title: Welcome to Dularyea
 >> x Logan 
 >
 >
->> [!recite|text-Center bg-c-purple]- Players Homepage: 
+>> [!recite]- Players Homepage: 
 >>
 >> https://homebrewery.naturalcrit.com/share/Ln-fvrU_Gl1c
 >
 >
->> [!recite|text-Center bg-c-purple]- World Info:
+>> [!recite]- World Info:
 >> 
 
 
