@@ -1,5 +1,5 @@
 ---
-title: Welcome to Dulrayea
+title: Welcome to Dularyea
 ---
 ![[Dulrayea Map.jpg|banner]]
 
